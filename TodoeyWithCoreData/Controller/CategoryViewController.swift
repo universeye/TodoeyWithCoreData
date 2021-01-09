@@ -25,6 +25,10 @@ class CategoryViewController: UITableViewController {
         // Uncomment the following line to display an Edit button in the navigation bar for this view controller.
         // self.navigationItem.rightBarButtonItem = self.editButtonItem
     }
+    
+    override func viewDidDisappear(_ animated: Bool) {
+        
+    }
 
     // MARK: - Table view data source
     //set up datasource to display all the categories that r inside our persistance container
