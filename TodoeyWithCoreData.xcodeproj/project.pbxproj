@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BF6D133425A9E94D0022DB39 /* testFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF6D133325A9E94D0022DB39 /* testFile.swift */; };
 		BFE5FD1D25A6A9E80050C454 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE5FD1C25A6A9E80050C454 /* AppDelegate.swift */; };
 		BFE5FD1F25A6A9E80050C454 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE5FD1E25A6A9E80050C454 /* SceneDelegate.swift */; };
 		BFE5FD2125A6A9E80050C454 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE5FD2025A6A9E80050C454 /* TableViewController.swift */; };
@@ -38,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BF6D133325A9E94D0022DB39 /* testFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testFile.swift; sourceTree = "<group>"; };
 		BFE5FD1925A6A9E80050C454 /* TodoeyWithCoreData.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TodoeyWithCoreData.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFE5FD1C25A6A9E80050C454 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BFE5FD1E25A6A9E80050C454 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -113,6 +115,7 @@
 				BFE5FD6225A6AF640050C454 /* Controller */,
 				BFE5FD6325A6AF720050C454 /* Supporte Files */,
 				BFE5FD2525A6A9E80050C454 /* TodoeyWithCoreData.xcdatamodeld */,
+				BF6D133325A9E94D0022DB39 /* testFile.swift */,
 			);
 			path = TodoeyWithCoreData;
 			sourceTree = "<group>";
@@ -303,6 +306,7 @@
 				BFE5FD1D25A6A9E80050C454 /* AppDelegate.swift in Sources */,
 				BFE5FD6C25A6B3130050C454 /* DataModel.xcdatamodeld in Sources */,
 				BFE5FD2725A6A9E80050C454 /* TodoeyWithCoreData.xcdatamodeld in Sources */,
+				BF6D133425A9E94D0022DB39 /* testFile.swift in Sources */,
 				BFE5FD7725A745260050C454 /* CategoryViewController.swift in Sources */,
 				BFE5FD1F25A6A9E80050C454 /* SceneDelegate.swift in Sources */,
 			);
