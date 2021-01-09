@@ -26,9 +26,7 @@ class CategoryViewController: UITableViewController {
         // self.navigationItem.rightBarButtonItem = self.editButtonItem
     }
     
-    override func viewDidDisappear(_ animated: Bool) {
-        
-    }
+
 
     // MARK: - Table view data source
     //set up datasource to display all the categories that r inside our persistance container
